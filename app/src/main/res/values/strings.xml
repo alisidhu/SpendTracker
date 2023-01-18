@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spend Tracker</string>
+    <string name="expense">Add Expense</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="description">Add Description</string>
+    <string name="add">Add</string>
+</resources>
